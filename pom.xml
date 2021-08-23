@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <jsoup.verison>1.11.3</jsoup.verison>
+        <jsoup.verison>1.14.2</jsoup.verison>
     </properties>
 
     <dependencies>
